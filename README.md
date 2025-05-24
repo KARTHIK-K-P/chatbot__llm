@@ -1,4 +1,4 @@
-## huggingface deployment link   ------      https://huggingface.co/spaces/karthikkp11/llm
+
 ## Installation
 ### Prerequisites
 Ensure you have Python installed (Python 3.8 or later recommended).
